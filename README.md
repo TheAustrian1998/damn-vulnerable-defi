@@ -13,7 +13,7 @@ Created by [@tinchoabbate](https://twitter.com/tinchoabbate)
 - :white_check_mark: Truster
 - :white_check_mark: Side entrance
 - :white_check_mark: The rewarder
-- :white_medium_square: Selfie
+- :white_check_mark: Selfie
 - :white_medium_square: Compromised
 - :white_medium_square: Puppet
 - :white_medium_square: Puppet v2

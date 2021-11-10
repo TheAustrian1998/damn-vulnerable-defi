@@ -16,7 +16,7 @@ Created by [@tinchoabbate](https://twitter.com/tinchoabbate)
 - :white_check_mark: Selfie
 - :white_medium_square: Compromised
 - :white_medium_square: Puppet
-- :white_medium_square: Puppet v2
+- :white_check_mark: Puppet v2
 - :white_medium_square: Free rider
 - :white_medium_square: Backdoor
 - :white_medium_square: Climber

@@ -17,7 +17,7 @@ Created by [@tinchoabbate](https://twitter.com/tinchoabbate)
 - :white_medium_square: Compromised
 - :white_medium_square: Puppet
 - :white_check_mark: Puppet v2
-- :white_medium_square: Free rider
+- :white_check_mark: Free rider
 - :white_medium_square: Backdoor
 - :white_medium_square: Climber
 

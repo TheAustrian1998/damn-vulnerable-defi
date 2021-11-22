@@ -19,7 +19,7 @@ Created by [@tinchoabbate](https://twitter.com/tinchoabbate)
 - :white_check_mark: Puppet v2
 - :white_check_mark: Free rider
 - :white_medium_square: Backdoor
-- :white_medium_square: Climber
+- :white_check_mark: Climber
 
 ## Play
 

